@@ -228,21 +228,6 @@ http://localhost:5173
 
 ---
 
-# 🔑 Environment Variables
-
-Create a `.env` file inside the backend folder.
-
-```env
-SECRET_KEY=your_secret_key
-
-DATABASE_URL=postgresql://username:password@localhost/intelliwealth
-
-GEMINI_API_KEY=your_gemini_api_key
-
-OPENAI_API_KEY=your_openai_api_key
-```
-
----
 
 # 🤖 AI Features
 
